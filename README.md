@@ -1,5 +1,4 @@
-# Level_difficulty_analytics
-Game analytics. Level difficulty detection.
+# Game analytics. Level difficulty detection.
 
 Имеется DataFrame (https://drive.google.com/file/d/1Fg3bvX2NOzd3pqcEkH8-epbZFll60-36) со статистикой игровой активности пользователей в игре жанра match3. Данная таблица содержит лог событий за определенный промежуток времени по первым 500 уровням в игре.
 
